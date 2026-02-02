@@ -6,7 +6,7 @@
 
 Ngay khi mở file, chương trình hiển thị giao diện đồ họa tự giới thiệu là công cụ kích hoạt Windows/Office, bố cục tương tự các bản activator phổ biến trên diễn đàn crack.
 
-![Giao diện kích hoạt 1](image.png)
+![Giao diện kích hoạt 1](https://raw.githubusercontent.com/AFatc4t/aa/main/image.png)
 
 Giao diện thứ hai đặt các nút kích hoạt song song cho Windows và Office, kèm các nhãn hướng dẫn đơn giản “KMS” nhằm thuyết phục người dùng rằng đây là công cụ đáng tin cậy.
 
@@ -75,5 +75,6 @@ Bên cạnh đó, nên thu thập full memory dump sau khi chạy mẫu để tr
 CFBAFBFIEH.exe là HackTool kích hoạt bản quyền cần loại bỏ và kiểm soát chặt cơ chế licensing; các chỉ báo liên quan tới Defender exclusion và Scheduled Tasks cần được xử lý triệt để.
 
 java.exe thực chất là miner XMRig được ngụy trang bằng tên tiến trình phổ biến, khiến tài nguyên hệ thống bị chiếm dụng và cần bị chặn cả file, persistence lẫn lưu lượng tới pool đào để tránh thất thoát chi phí vận hành.
+
 
 FIDAFIEBFC.exe hoạt động như loader obfuscate, đòi hỏi phân tích sâu hơn để nhận diện payload cuối và triển khai biện pháp giám sát memory chủ động; cần chuẩn bị quy trình sandbox, memory forensics và hunting pipe bất thường cho giai đoạn theo dõi sau xử lý.
